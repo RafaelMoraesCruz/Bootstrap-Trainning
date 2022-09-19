@@ -34,6 +34,7 @@ body{
 }
 
 .title-image{
+    margin-left: 5rem;
     width: 60%;
     transform: rotate(25deg);
 }
@@ -46,6 +47,15 @@ body{
     font-style: "Montserrat-bold";
     margin-top: 6rem;
     margin-bottom: 6rem;
+    padding: 7% 7%;
+}
+
+h3{
+    font: 1.7em sans-serif;
+}
+
+.features-icons{
+    margin-bottom: 1rem;
 }
 
 .features-icons:hover{
